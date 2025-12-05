@@ -1,1 +1,25 @@
-
+{
+  "pytania":[
+    {
+      "tresc": "Stolica Polski było:",
+      "odpa": "Wilkowyje",
+      "odpb": "Gniezno",
+      "odpc": "Kowno",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Prezydentem Polski był:",
+      "odpa": "Jarosław Kaczyński",
+      "odpb": "Paweł Kozioł",
+      "odpc": "Lech Wałęsa",
+      "poprawna": 2
+    },
+    {
+      "tresc": "W maju na praktyki idzie klasa:",
+      "odpa": "4",
+      "odpb": "3",
+      "odpc": "2",
+      "poprawna": 0
+    }
+  ]
+}
